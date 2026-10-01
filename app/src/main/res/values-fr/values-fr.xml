@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FancyScreen</string>
+
+    <string name="name">Nom</string>
+    <string name="email">E-mail</string>
+    <string name="email_address">Adresse e-mail</string>
+    <string name="extension">Poste</string>
+    <string name="department">Département</string>
+    <string name="department_name">Nom du département</string>
+    <string name="supervisor">Superviseur</string>
+    <string name="supervisor_name">Nom du superviseur</string>
+    <string name="direct_reports">Subordonnés directs</string>
+
+    <string name="michelle_townsend">Michelle Townsend</string>
+    <string name="email_value">mt@ourcompany.com</string>
+    <string name="extension_value">2253</string>
+    <string name="department_value">Design</string>
+    <string name="supervisor_value">Gail Davers</string>
+
+    <string name="kate_sacloff">Kate Sacloff</string>
+    <string name="andrew_klein">Andrew Klein</string>
+    <string name="maria_ortega">Maria Ortega</string>
+    <string name="brent_stevenson">Brent Stevenson</string>
+    <string name="daniel_cho">Daniel Cho</string>
+    <string name="jorge_gomez">Jorge Gomez</string>
+</resources>
